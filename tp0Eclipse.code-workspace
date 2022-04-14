@@ -1,16 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "client"
+		},
+		{
+			"path": "server"
 		}
-	],
-	"settings": {
-		"files.exclude": {
-			"**/.git": true,
-			"**/.svn": true,
-			"**/.hg": true,
-			"**/CVS": true,
-			"**/.DS_Store": true
-		}
-	}
+	]
 }

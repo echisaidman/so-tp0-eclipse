@@ -1,1 +1,6 @@
 *.log
+obj/
+
+# Ejecutables
+client/client
+server/server

@@ -8,6 +8,7 @@
 
 int main(void)
 {
+	//probando si funciona
 	int conexion;
 
 	/* ---------------- LOGGING ---------------- */
